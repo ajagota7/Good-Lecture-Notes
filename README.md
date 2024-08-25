@@ -10,3 +10,5 @@ Series of good lecture notes
 [Causal Inference](https://causalinference.gitlab.io/courses/)
 
 [Gaussian Process Summer School - General](https://gpss.cc/)
+
+[Andy Jones](https://andrewcharlesjones.github.io/menu/blog.html)
